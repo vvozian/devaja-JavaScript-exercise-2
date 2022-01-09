@@ -1,5 +1,5 @@
 # JavaScript exercise 2
-First exercise for De Vaja
+Second exercise for De Vaja
 
 ## Task
 Create a following HTML5 web application
